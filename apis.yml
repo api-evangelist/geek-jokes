@@ -1,0 +1,32 @@
+aid: geek-jokes
+name: Geek-Jokes
+description: "Fetch a random geeky/programming related joke for use in all sorts of applications"
+url: https://github.com/sameerkumar18/geek-joke-api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Games & Comics"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Games And Comics
+  - Public APIs
+apis:
+  - name: Geek-Jokes
+    description: "Fetch a random geeky/programming related joke for use in all sorts of applications"
+    humanURL: https://github.com/sameerkumar18/geek-joke-api
+    baseURL: https://github.com/sameerkumar18/geek-joke-api
+    tags:
+      - Games And Comics
+    properties:
+      - type: Documentation
+        url: https://github.com/sameerkumar18/geek-joke-api
+common:
+  - type: Website
+    url: https://github.com/sameerkumar18/geek-joke-api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
