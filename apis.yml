@@ -40,7 +40,8 @@ apis:
   - name: Geek-Jokes
     description: "Fetch a random geeky/programming related joke for use in all sorts of applications"
     humanURL: https://github.com/sameerkumar18/geek-joke-api
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
